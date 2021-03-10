@@ -20,7 +20,7 @@ class Ui_make_model(object):
         self.tab_3.setGeometry(QtCore.QRect(-10, 0, 1011, 661))
         self.tab_3.setStyleSheet("#tab_1\n"
 "{background:url(/Users/jasonc/Desktop/iStock-844737120-1024x680.jpg);\n"
-"}\n"  # change to you own path
+"}\n" # This is the background image of the first page, please change to your own path of your computor.
 "\n"
 "#tab_2,#special_three, #tab_4, #tab_5, #tab_6\n"
 "{\n"
